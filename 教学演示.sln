@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "练习", "练习", "{EB7700
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9-9", "练习\9-9\9-9.vcxproj", "{28BBF221-9319-45D1-8BB6-E810CAEF29CB}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9-10", "9-10\9-10.vcxproj", "{CEBBA80F-1BE2-4980-88C9-CCB8A25C1A24}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9-10", "练习\9-10\9-10.vcxproj", "{CEBBA80F-1BE2-4980-88C9-CCB8A25C1A24}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
